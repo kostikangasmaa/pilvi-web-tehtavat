@@ -5,6 +5,13 @@
 </head>
 <body>
     <h1>Tervetuloa Kosti Kangasmaan GitHub Pages-sivustolle!</h1>
-    <p class="container">Tämä on ensimmäinen GitHub Pages -teksti.</p>
+    <ul>
+        <li>Viikko 1</li>
+        <li><a href="vko2.md">Viikko 2<a/></li>
+        <li>Viikko 3</li>
+        <li>Viikko 4</li>
+        <li>Viikko 5</li>
+        <li>Viikko 6</li>
+    </ul>
 </body>
 </html>
