@@ -3,7 +3,7 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    <h1>Tervetuloa Kosti Kangasmaan GitHub Pages-sivustolle!</h1>
+    <h1>Tervetuloa Kosti Kangasmaan GitHub Pages-sivustolle</h1>
     <ul>
         <li><a href="index.md">Viikko 1<a/></li>
         <li><a href="vko2.md">Viikko 2<a/></li>
