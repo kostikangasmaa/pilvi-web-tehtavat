@@ -1,6 +1,5 @@
 <html>
 <head>
-    <title>Viiko2</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
