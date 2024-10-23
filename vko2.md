@@ -1,5 +1,6 @@
 ---
 title: "Viikko 2"
+layout: default
 ---
 
 # Viikko 2 Tehtävä
