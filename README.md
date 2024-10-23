@@ -1,2 +1,2 @@
 # pilvi-web-tehtavat
-Pilvipalvelut web-kehityksessä kurssin tehtävä repositorio
+Haaga-helian Pilvipalvelut web-kehityksessä kurssin tehtävä repositorio
