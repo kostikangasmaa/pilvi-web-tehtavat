@@ -7,5 +7,5 @@ Täältä löytyvät tehtäväpalautukset:
 - [Viikko 4](./viikko4/index.html)
 - [Viikko 5](./viikko5/vko5.md)
 - Viikko 6
-- Harjoitustyö
+- [Harjoitustyö](./Harjoitustyö/Harjoitustyö.md)
 
