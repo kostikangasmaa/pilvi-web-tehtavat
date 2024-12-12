@@ -28,8 +28,8 @@ Microsoft Edge (v131): Ei havaittuja ongelmia, kaikki elementit latautuvat oikei
 Sivuston latautumisajat ovat erinomaiset desktopissa, mutta tuntemattomasta syystä MUI:n kirjaston lataamisessa mobiili testissä kesti erityisen kauan. Latausaika testit suoritettiin aluksi loginpagella, jonka jälkeen tarkkailin latausaikoja kirjautumisen takana olleilla sivuilla. testeistä ilmeni, että firestore tietokannan latausaika oli noin 1000ms, joka vaikuttaa mielestäni käyttäjäkokemukseen.
 
 ### Mobiili
-Mobiili tulokset:
 ![screenshot](harjoitustyö_mobiilitesti.png)
+#### Mobiili tulokset:
 - First Contentful Paint: 2.6 s
 - Largest Contentful Paint: 2.6 s
 - Total Blocking Time: 30 ms
@@ -38,7 +38,7 @@ Mobiili tulokset:
 
 ### Desktop
 ![screenshot](harjoitustyö_desktoptesti.png)
-Desktop tulokset:
+#### Desktop tulokset:
 - First Contentful Paint: 0.5 s
 - Largest Contentful Paint: 0.5 s
 - Total Blocking Time: 40 ms
