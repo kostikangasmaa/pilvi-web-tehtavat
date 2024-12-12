@@ -30,20 +30,20 @@ Sivuston latautumisajat ovat erinomaiset desktopissa, mutta tuntemattomasta syys
 ### Mobiili
 Mobiili tulokset:
 ![screenshot](harjoitustyö_mobiilitesti.png)
-First Contentful Paint: 2.6 s
-Largest Contentful Paint: 2.6 s
-Total Blocking Time: 30 ms
-Cumulative Layout Shift: 0
-Speed Index: 2.6 s
+- First Contentful Paint: 2.6 s
+- Largest Contentful Paint: 2.6 s
+- Total Blocking Time: 30 ms
+- Cumulative Layout Shift: 0
+- Speed Index: 2.6 s
 
 ### Desktop
 ![screenshot](harjoitustyö_desktoptesti.png)
 Desktop tulokset:
-First Contentful Paint: 0.5 s
-Largest Contentful Paint: 0.5 s
-Total Blocking Time: 40 ms
-Cumulative Layout Shift: 0
-Speed Index: 0.6 s
+- First Contentful Paint: 0.5 s
+- Largest Contentful Paint: 0.5 s
+- Total Blocking Time: 40 ms
+- Cumulative Layout Shift: 0
+- Speed Index: 0.6 s
 
 
 ### [Linkki sivulle](https://kostikangasmaa.github.io/foodApp).
