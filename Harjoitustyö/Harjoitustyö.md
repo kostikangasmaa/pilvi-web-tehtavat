@@ -9,10 +9,10 @@ Harjoitustehtävänä loin yksinkertaisen reseptisovelluksen, joka on rakennettu
 ### Toimivuus eri kokoisilla päätelaitteilla:
 
 ### Desktop
-Sivusto toimii kehittäjän oletusten mukaisesti, kaikki elementit latautuvat ja asettuvat oikein. Käyttäjäkokemus on sujuva ja intuitiivinen.
+Sivusto toimii kehittäjän oletusten mukaisesti, kaikki elementit latautuvat ja asettuvat oikein. Käyttäjäkokemus on suunnitelmani mukainen ja looginen.
 
 ### Tablet
-Layout mukautuu hyvin vaakasuunnassa, pystysuunnassa elementit asettuvat oikein. Käytettävyys on hyvä sekä vaakatasossa että pystysuunnassa.
+Layout mukautuu hyvin vaakasuunnassa ja mahdollisesti myöspystysuunnas kunhan tabletin resoluutio on molemmissa suunnissa vähintään 800 pikseliä, tällöin MUI x datagridin toiminnallisuudet ovat käytettävissä tarkoituksen mukaisesti.
 
 ### Mobiili
 Sivusto ei ole valitettavasti täysin responsiivinen, koska käytin projektissa MUI x datagridia reseptien listaamiseen, joka ei valitettavasti ole täysin responsiivinen, koska se piilottaa näytön kavennettua sarakkeita.
