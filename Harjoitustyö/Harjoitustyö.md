@@ -2,7 +2,7 @@
 title: "Harjoitustehtävä"
 layout: default
 ---
-
+[Takaisin](../index.md)
 # Harjoitustehtävä
 Harjoitustehtävänä loin yksinkertaisen reseptisovelluksen, joka on rakennettu käyttäen Viteä, Reactia, TypeScriptiä, Material-UI:ta, Mealdb:tä ja Firebasea.
 ## Responsiivisuus
